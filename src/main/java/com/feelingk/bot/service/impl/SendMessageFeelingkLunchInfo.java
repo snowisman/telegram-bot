@@ -32,24 +32,6 @@ public class SendMessageFeelingkLunchInfo implements TelegramSendMessage {
 		shop.add("부대찌개");
 		shop.add("야마돈까스");
 		shop.add("새마을식당");
-		shop.add("신선설농탕");
-		shop.add("세븐스프링스카페");
-		shop.add("명동칼국수");
-		shop.add("낙지칼국수");
-		shop.add("장강");
-		shop.add("금궁");
-		shop.add("순대국밥");
-		shop.add("칠형제 해장국");
-		shop.add("포몬스 쌀국수");
-		shop.add("미스터피자");
-		shop.add("아비코커리");
-		shop.add("함흥냉면");
-		shop.add("맥도날드");
-		shop.add("한우국밥");
-		shop.add("나주곰탕");
-		shop.add("사보텐 돈까스");
-		shop.add("불고기 백반");
-		shop.add("달인찜닭");
 
 		Collections.shuffle(shop);
 		
