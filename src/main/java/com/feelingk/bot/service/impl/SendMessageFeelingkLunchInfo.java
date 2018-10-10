@@ -50,7 +50,6 @@ public class SendMessageFeelingkLunchInfo implements TelegramSendMessage {
 		shop.add("사보텐 돈까스");
 		shop.add("불고기 백반");
 		shop.add("달인찜닭");
-		shop.add("구이찌");
 
 		Collections.shuffle(shop);
 		
