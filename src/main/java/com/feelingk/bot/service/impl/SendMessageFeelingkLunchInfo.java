@@ -27,11 +27,11 @@ public class SendMessageFeelingkLunchInfo implements TelegramSendMessage {
 		String lottoStr=message.getMessage().getFrom().getFirstName()+"님에게 점심 추천 메뉴 : ";
 		
 		List<String> shop = new ArrayList<String>();
-		shop.add("유가네");
-		shop.add("에베레스트");
-		shop.add("부대찌개");
-		shop.add("야마돈까스");
-		shop.add("새마을식당");
+		shop.add("1");
+		shop.add("2");
+		shop.add("3");
+		shop.add("4");
+		shop.add("5");
 
 		Collections.shuffle(shop);
 		
